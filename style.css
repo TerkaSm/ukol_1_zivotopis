@@ -1,0 +1,77 @@
+body {
+    color: #ffe188;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #332700;
+    width: 60%;
+    margin: 0 auto;
+}
+
+h1, h2 {
+    color: #dda700;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    color: #332700;
+}
+
+a {
+    color: #dda700;
+}
+
+.hlavicka, 
+.paticka {
+    color: #dda700;
+    background-color: #332700;
+    padding: 25px;
+}
+
+.hlavicka {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    padding: 25px;
+    margin-top: 25px;
+}
+
+.main {
+    margin: 0 auto;
+    color: #332700;
+    background-color: #dda700;
+    padding: 25px;
+}
+
+.main h2 {
+    color: #dda700;
+    background-color: #332700;
+    text-align: center;
+    line-height: 2;
+}
+
+.main h3 {
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+
+main p {
+    text-transform: uppercase;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.sekce {
+    margin-bottom: 45px;
+}
+
+.paticka {
+    text-align: center;
+}
