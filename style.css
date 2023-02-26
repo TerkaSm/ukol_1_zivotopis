@@ -1,13 +1,12 @@
 body {
-    color: #ffe188;
     font-family: 'Montserrat', sans-serif;
-    background-color: #332700;
+    background-color: #221a00;
     width: 60%;
     margin: 0 auto;
 }
 
 h1, h2 {
-    color: #dda700;
+    color: #332700;
     text-transform: uppercase;
     font-weight: 700;
     letter-spacing: 2px;
@@ -23,24 +22,51 @@ h3 {
 }
 
 a {
+    color: #332700;
+    font-weight: 700;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:hover {
     color: #dda700;
+    background-color: #332700;
+    border-radius: 10px;
+    padding: 5px 10px;
 }
 
 .hlavicka, 
 .paticka {
-    color: #dda700;
-    background-color: #332700;
+    color: #332700;
+    background-color: #dda700;
     padding: 25px;
+    text-align: center;
+    margin: 35px 0;
 }
 
-.hlavicka {
+.hlavicka, 
+.paticka,
+.main {
+    border-radius: 20px;
+}
+
+.hlavicka h2 {
+    color: #332700;
+}
+
+.hlavicka p {
+    font-weight: 700;
+}
+
+.img {
     text-align: center;
+    padding-top: 40px;
 }
 
 img {
     border-radius: 50%;
     padding: 25px;
-    margin-top: 25px;
+    text-align: center;
 }
 
 .main {
@@ -55,6 +81,7 @@ img {
     background-color: #332700;
     text-align: center;
     line-height: 2;
+    border-radius: 10px;
 }
 
 .main h3 {
@@ -73,5 +100,7 @@ main p {
 }
 
 .paticka {
-    text-align: center;
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: 700;
 }
