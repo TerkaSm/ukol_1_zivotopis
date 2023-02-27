@@ -1,5 +1,4 @@
-#feb, #ffe188 - text
-#ffc100, #dda700 - žlutá obsah pozadí 
-#332700, #221a00 - hnědá pozadí hlavička, patička
 
-#3FE1EF modrá
+#dda700 - žlutá 
+#332700, #221a00 - hnědá
+
