@@ -1,12 +1,12 @@
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: #221a00;
+    background-color: #443400;
     width: 60%;
     margin: 0 auto;
 }
 
 h1, h2 {
-    color: #332700;
+    color: #443400;
     text-transform: uppercase;
     font-weight: 700;
     letter-spacing: 2px;
@@ -18,11 +18,11 @@ h1 {
 }
 
 h3 {
-    color: #332700;
+    color: #443400;
 }
 
 a {
-    color: #332700;
+    color: #443400;
     font-weight: 700;
     text-decoration: none;
     display: inline-block;
@@ -31,14 +31,14 @@ a {
 
 a:hover {
     color: #dda700;
-    background-color: #332700;
+    background-color: #443400;
     border-radius: 10px;
     padding: 5px 10px;
 }
 
 .hlavicka, 
 .paticka {
-    color: #332700;
+    color: #443400;
     background-color: #dda700;
     padding: 25px;
     text-align: center;
@@ -52,7 +52,7 @@ a:hover {
 }
 
 .hlavicka h2 {
-    color: #332700;
+    color: #443400;
 }
 
 .hlavicka p {
@@ -72,14 +72,14 @@ img {
 
 .main {
     margin: 0 auto;
-    color: #332700;
+    color: #443400;
     background-color: #dda700;
     padding: 25px;
 }
 
 .main h2 {
     color: #dda700;
-    background-color: #332700;
+    background-color: #443400;
     text-align: center;
     line-height: 2;
     border-radius: 10px;
@@ -125,7 +125,7 @@ main ul {
 
 .menu li {
     display: inline-block;
-    color: #332700;
+    color: #443400;
     font-size: 24px;
 }
 
