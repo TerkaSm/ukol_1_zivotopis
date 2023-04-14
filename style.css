@@ -1,5 +1,6 @@
 body {
-    font-family: 'Montserrat', sans-serif;
+    /*font-family: 'Montserrat', sans-serif;*/
+    font-family: 'Ubuntu', sans-serif;
     background-color: #332700;
     width: 60%;
     margin: 0 auto;
@@ -78,7 +79,8 @@ img {
     padding: 25px;
 }
 
-.main h2 {
+.main h2,
+.paticka h2 {
     color: #dda700;
     background-color: #332700;
     text-align: center;
@@ -139,4 +141,8 @@ main ul {
 
 .nahoru {
     text-align: right;
+}
+
+.paticka img {
+    width: 48px;
 }
